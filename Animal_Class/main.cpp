@@ -7,6 +7,8 @@ int main() {
 
     // Esto es un comentario de prueba para practicar git -> gitHub
 
+    // Este es otro comentario de prueba para hacer un pull
+
     //Animal myAnimal("Sam", 100);
     Dog dog("Rover", 80, "Greyhound");
     Animal* dogPtr = new Dog("Fido", 115, "Golden Retriever"); // the * is a pointer that is pointing to a dog object (this is polymorphic reference)
